@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Abbie",
+      "hasCanvas": false,
+      "bodyTextLen": 322,
+      "bodyTextHash": "7f454e9a57fa6aac7bdf2f8dd77ef38bb6c0083e54aaf315c08ae6b684df2eaf",
+      "bodyTextPrefix": "Abbie Active now Link WhatsApp Today · 3:25 AM Hey — I’m Abbie. ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Abbie",
+      "hasCanvas": false,
+      "bodyTextLen": 308,
+      "bodyTextHash": "b2a9c8c405d89ac1a1e6d69f273d599ddd8c59cb38378c494aaf1c451121fa37",
+      "bodyTextPrefix": "Abbie Active now Today · 3:25 AM Hey — I’m Abbie. Tell me what y",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
